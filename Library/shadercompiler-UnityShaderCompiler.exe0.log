@@ -1,7 +1,0 @@
-Base path: 'E:/UnityEditor/2019.4.33f1c1/Editor/Data', plugins path 'E:/UnityEditor/2019.4.33f1c1/Editor/Data/PlaybackEngines'
-Cmd: initializeCompiler
-Cmd: preprocessCompute
-  insize=1893 outsize=1897 ok=1
-Cmd: shutdown
-
-Quitting shader compiler process

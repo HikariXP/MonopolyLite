@@ -1,0 +1,4 @@
+repository "MonopolyLite@ssl://wechat_og5za0qkvytlsjqy3jrkmgpxb_z8@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
